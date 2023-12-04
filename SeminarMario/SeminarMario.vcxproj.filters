@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Practice">
+      <UniqueIdentifier>{fa13f3d5-7199-4a36-a323-b72e0c5a39a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Entities">
+      <UniqueIdentifier>{cb9bcbfe-40ea-41cb-a589-7febab2134c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Infrastructure">
+      <UniqueIdentifier>{d42f6541-b5c5-4b3b-bdad-f5689cef1864}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="pracrice_.cpp">
+      <Filter>Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Physics.cpp">
+      <Filter>Infrastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="Observer.cpp">
+      <Filter>Infrastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="Graphics.cpp">
+      <Filter>Infrastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="Entities.cpp">
+      <Filter>Infrastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="EntitiesPool.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="HeroEntity.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="LivesEntity.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="SlimeEntity.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="CreateEntities.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="AppleEntity.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Animation.h">
+      <Filter>Practice</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Practice</Filter>
+    </ClInclude>
+    <ClInclude Include="Config.h">
+      <Filter>Practice</Filter>
+    </ClInclude>
+    <ClInclude Include="Physics.h">
+      <Filter>Infrastructure</Filter>
+    </ClInclude>
+    <ClInclude Include="Observer.h">
+      <Filter>Infrastructure</Filter>
+    </ClInclude>
+    <ClInclude Include="Graphics.h">
+      <Filter>Infrastructure</Filter>
+    </ClInclude>
+    <ClInclude Include="Entities.h">
+      <Filter>Infrastructure</Filter>
+    </ClInclude>
+    <ClInclude Include="EntitiesPool.h">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="HeroEntity.h">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="LivesEntity.h">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="SlimeEntity.h">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="CreateEntities.h">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="AppleEntity.h">
+      <Filter>Entities</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

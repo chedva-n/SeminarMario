@@ -1,0 +1,23 @@
+﻿  pracrice_.cpp
+C:\Users\חדוה\Desktop\Bootcamps-Rafael\משחק מריו\Day1-Code\SeminarMario\Graphics.h(79,53): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\חדוה\Desktop\Bootcamps-Rafael\משחק מריו\Day1-Code\SeminarMario\Graphics.h(79,47): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\חדוה\Desktop\Bootcamps-Rafael\משחק מריו\Day1-Code\SeminarMario\Graphics.h(80,51): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\חדוה\Desktop\Bootcamps-Rafael\משחק מריו\Day1-Code\SeminarMario\Graphics.h(80,45): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\חדוה\Desktop\Bootcamps-Rafael\משחק מריו\Day1-Code\SeminarMario\pracrice_.cpp(61,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SeminarMario.vcxproj -> C:\Users\חדוה\Desktop\Bootcamps-Rafael\משחק מריו\Day1-Code\x64\Debug\SeminarMario.exe
