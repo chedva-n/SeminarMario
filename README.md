@@ -1,6 +1,6 @@
 ## Mario Game
-This is a simple Mario game built in C++ that follows best programming practices and design patterns to ensure clean and maintainable code.
-The game features classic Mario gameplay elements, including walking left and right, jumping, crouching, stopping, and shooting apples at the enemy.
+This is a simple Mario game built in **C++** that follows best programming practices and **Design Patterns** to ensure clean and maintainable code.</br> 
+The game features classic Mario gameplay elements, including walking left and right, jumping, crouching, stopping, and shooting apples at the enemy.</br> 
 The hero can collide with enemies and lose lives or shoot them to increase the score.
 
 
