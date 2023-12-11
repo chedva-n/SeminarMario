@@ -5,16 +5,16 @@ The hero can collide with enemies and lose lives or shoot them to increase the s
 
 
 ## Game instructions
-**Walk:** Use the 'D' key to move Mario right and the 'A' key to move Mario left.
-**Jump:** Press the 'W' key to make Mario jump
-**Duck:** Press S to make Mario crouch, to return to standing press 'W'.
-**Stop:** Press 'A' to stop
-**Shoot:** Press the 'C' key to make Mario shoot an apple.
-**Exit:** Press the 'Esc' key at any time to exit the game
+**Walk:** Use the 'D' key to move Mario right and the 'A' key to move Mario left.</br>
+**Jump:** Press the 'W' key to make Mario jump.</br>
+**Duck:** Press S to make Mario crouch, to return to standing press 'W'.</br>
+**Stop:** Press 'A' to stop.</br>
+**Shoot:** Press the 'C' key to make Mario shoot an apple.</br>
+**Exit:** Press the 'Esc' key at any time to exit the game.</br>
 
 ## to start playing
-Add the following files:
-     * opencv_world451.dll
-     * opencv_world451d.dll
+Add the following files:</br>
+     * opencv_world451.dll</br>
+     * opencv_world451d.dll</br>
 
 Inside the 'SeminarMario' folder. Then launch the game.
